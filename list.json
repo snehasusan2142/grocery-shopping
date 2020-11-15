@@ -1,0 +1,277 @@
+{
+"Dairy":[
+            {
+               
+                "sl":"1",
+                "Name":"Curd",
+                "Quantity":"2",
+                "Unit":"Packet",
+                "Department":"Dairy",
+                "Notes":"Urgent! get Milma Curd-250ml packets"
+
+                 },
+                 {
+               
+                    "sl":"2",
+                    "Name":"Milk",
+                    "Quantity":"4",
+                    "Unit":"Packet",
+                    "Department":"Dairy",
+                    "Notes":"Bottled Ones-500ml each"
+    
+                     },
+
+                 {
+               
+                    "sl":"3",
+                    "Name":"Cheese",
+                    "Quantity":"2",
+                    "Unit":"Packet",
+                    "Department":"Dairy",
+                    "Notes":"Amul Cheese"
+    
+                     }
+    ],
+    "Produce":[
+
+        {
+               
+            "sl":"4",
+            "Name":"Tomato",
+            "Quantity":"1.5",
+            "Unit":"Kg",
+            "Department":"Vegetable",
+            "Notes":"Get a small box of cherry tomatoes too.. "
+
+             },
+                 {
+                                "sl":"5",
+                                "Name":"Green Peas",
+                                "Quantity":"1.5",
+                                "Unit":"Kg",
+                                "Department":"Pulses",
+                                "Notes":"Fresh Packet "
+                
+                                 },
+                                 {
+               
+                                    "sl":"6",
+                                    "Name":"Mangoes",
+                                    "Quantity":"3",
+                                    "Unit":"Kg",
+                                    "Department":"Fruit",
+                                    "Notes":"Ripened"
+                    
+                                     },
+                                     {
+               
+                                        "sl":"7",
+                                        "Name":"Onion",
+                                        "Quantity":"4",
+                                        "Unit":"Kg",
+                                        "Department":"Vegetable",
+                                        "Notes":"Red or white"
+                        
+                                         },
+
+                                         {
+               
+                                            "sl":"8",
+                                            "Name":"Rice",
+                                            "Quantity":"10",
+                                            "Unit":"Kg",
+                                            "Department":"Grains",
+                                            "Notes":"Chemba Rice"
+                            
+                                             },
+
+                                             {
+               
+                                                "sl":"9",
+                                                "Name":"Raagi",
+                                                "Quantity":"5",
+                                                "Unit":"Kg",
+                                                "Department":"Grains",
+                                                "Notes":"Look for Sortex packet"
+                                
+                                                 },
+                                            
+
+                                                     {
+               
+                                                        "sl":"10",
+                                                        "Name":"Cabbage",
+                                                        "Quantity":"2",
+                                                        "Unit":"Kg",
+                                                        "Department":"Vegetable",
+                                                        "Notes":"If not available buy Cauliflower"
+                                        
+                                                         }
+                                         
+    ],
+
+
+
+    "Cleaners":[
+        {
+           
+            "sl":"11",
+            "Name":" laundry detergent",
+            "Quantity":"2",
+            "Unit":"Packet",
+            "Department":"Cleaner",
+            "Notes":"Ujala-IDD"
+
+             },
+
+             {
+           
+                "sl":"12",
+                "Name":"Tiolet Cleaner",
+                "Quantity":"2",
+                "Unit":"Bottle",
+                "Department":"Cleaner",
+                "Notes":"Harpick"
+
+                 },
+
+                 {
+           
+                    "sl":"13",
+                    "Name":"Dishwashing liquid",
+                    "Quantity":"4",
+                    "Unit":"Bottle",
+                    "Department":"Cleaner",
+                    "Notes":"Take 500ml bottles"
+                }
+            ],
+        
+        
+
+"HerbsandSpices":[
+                {
+               
+                "sl":"14",
+                "Name":"Fenugreek",
+                "Quantity":"1",
+                "Unit":"Packet",
+                "Department":"Spice",
+                "Notes":"For pickle"
+
+                 },
+
+                 {
+
+                    "sl":"15",
+                    "Name":"Basil",
+                    "Quantity":"100",
+                    "Unit":"grams",
+                    "Department":"herb",
+                    "Notes":"Buy Only if Fresh"
+    
+                     },
+                
+
+                         {
+
+                            "sl":"16",
+                            "Name":"Cloves",
+                            "Quantity":"2",
+                            "Unit":"Packet",
+                            "Department":"Spice",
+                            "Notes":"Brown Sugar if available"
+            
+                             },
+
+            
+            {
+               
+                "sl":"17",
+                "Name":"Cumin",
+                "Quantity":"2",
+                "Unit":"Packet",
+                "Department":"Spice",
+                "Notes":"Black color packets "
+
+                 }
+            ],
+
+
+"NonVeg":[
+                {
+               
+                "sl":"18",
+                "Name":"Eggs",
+                "Quantity":"30",
+                "Unit":"Numbers",
+                "Department":"Non - Veg",
+                "Notes":"Duck/Quail"
+
+                 },
+
+                 {
+
+                    "sl":"19",
+                    "Name":"Fish",
+                    "Quantity":"1",
+                    "Unit":"Kg",
+                    "Department":"Non - Veg",
+                    "Notes":"Buy Only if Fresh"
+    
+                     },
+                
+
+                         {
+
+                            "sl":"20",
+                            "Name":"Mutton",
+                            "Quantity":"2",
+                            "Unit":"Kg",
+                            "Department":"Non - Veg",
+                            "Notes":"Clean it as soon as possible"
+            
+                             }
+                            ],
+
+"Snacks":[
+                                {
+                               
+                                "sl":"21",
+                                "Name":"Cookies",
+                                "Quantity":"3",
+                                "Unit":"Packet",
+                                "Department":"Snacks",
+                                "Notes":"Hide and Seek"
+                
+                                 },
+                
+                                 {
+                
+                                    "sl":"22",
+                                    "Name":"Noodles",
+                                    "Quantity":"10",
+                                    "Unit":"Packets",
+                                    "Department":"Snacks",
+                                    "Notes":"Maggie/Yippe Noodles"
+                    
+                                     },
+                                
+                
+                                         {
+                
+                                            "sl":"23",
+                                            "Name":"Mixture",
+                                            "Quantity":"2",
+                                            "Unit":"Packet",
+                                            "Department":"Snacks",
+                                            "Notes":"Haldirams katta metta"
+                            
+                                             }
+                                            ]
+                
+                                        }
+     
+
+
+
+               

@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(images/adobestock_272406819.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height: 150vh;
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    z-index: -1;
+    
+}
+.heading{
+    padding: 0.5em;
+    color: rgb(163, 19, 120);
+    font-size: 5em;
+    background-color: bisque;
+}
+.btn1{
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size:2em;
+    color: rgb(17, 128, 156);
+}
+#table1{
+    background-color: rgb(135, 245, 245);
+    visibility: hidden;
+    width: 75%;
+    text-align: center;
+    display:inline-block;
+    
+}
+.dropdown{
+    margin-top: 1em;
+    padding: 0.5em;
+}
